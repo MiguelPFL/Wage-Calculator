@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Langones_Wage_Calculator</string>
+    <string name="yellow_begone">yes</string>
+    <string name="enterName">Enter name…</string>
+    <string name="hoursonthejob">Hours on the job:</string>
+    <string name="enterTime">Enter hours…</string>
+    <string name="type">Employee Type:</string>
+    <string name="calculate">Calculate</string>
+    <string name="results">Results</string>
+    <string name="name">Name:</string>
+    <string name="totalwage">Total Wage</string>
+    <string name="regularwage">Regular Wage</string>
+    <string name="overtimewage">Overtime Wage</string>
+    <string name="hours">Hours</string>
+    <string name="overtime">Overtime</string>
+    <string name="outputcustom">Result</string>
+    <string name="returnbutton">Return</string>
+    
+    <string-array name="employeetypes">
+        <item>Regular</item>
+        <item>Probationary</item>
+        <item>Part-time</item>
+    </string-array>
+</resources>
